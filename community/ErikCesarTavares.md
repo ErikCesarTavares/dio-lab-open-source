@@ -5,9 +5,10 @@ Olá, eu sou Erik Cesar Tavares 👋
 🏢 Atuação Profissional
 
 🚀 Atuo como Desenvolvedor Front-End HTML | CSS | Javascript
+
 🎓 Estudante de Nutrição pela UNIASSELVI
 
-📌 Contato: https://bio.link/eriktavares
+📌 Contato: [Erik Tavares](https://bio.link/eriktavares)
 
 🚀 Tecnologias:
  HTML5, CSS3, JavaScript, jQuery, Git/GitHub, JAVA
